@@ -33,6 +33,9 @@ fun TiramisuRecipeScreen() {
         modifier = Modifier
             .fillMaxSize()
             .background(Color.White)
+            .padding(16.dp),
+        verticalArrangement = Arrangement.SpaceEvenly,
+        horizontalAlignment = Alignment.CenterHorizontally
     ) {
         // The title of the screen
         Text(
