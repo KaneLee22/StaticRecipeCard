@@ -80,7 +80,7 @@ fun TiramisuRecipeScreen() {
                 Text(text = "• 3-4 egg yolks")
                 Text(text = "• Water (30g)")
                 Text(text = "• White sugar (50g)")
-                Text(text = "• Ladyfingers")
+                Text(text = "• Ladyfingers(cookies)")
                 Text(text = "• Coffee liqueur (10g)")
                 Text(text = "• Fresh coffee")
             }
